@@ -1,0 +1,16 @@
+# Pliki generowane przez IntelliJ IDEA
+.idea/
+*.iml
+
+# Pliki binarne
+bin/
+target/
+out/
+
+# Logi i pliki tymczasowe
+*.log
+*.tmp
+
+# Ustawienia systemowe i pliki konfiguracyjne
+*.DS_Store
+Thumbs.db
